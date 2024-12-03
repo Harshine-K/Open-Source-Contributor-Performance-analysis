@@ -12,6 +12,18 @@ This project aims to analyze the performance of open-source contributors based o
 - **Modeling**: A machine learning model predicts the performance score based on features such as contributions, commits, pull requests, and issues.
 - **PDF Report Generation**: Download a generated PDF report summarizing the analysis and visualizations.
 
+## How to Run the Project
+
+Follow these steps to run the **Open-Source Contributor Performance Analysis System** on your local machine:
+
+### Step 1: Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/open-source-contributor-performance.git
+cd open-source-contributor-performance
+
 ### Install Dependencies
 
 To install the required dependencies, run:
