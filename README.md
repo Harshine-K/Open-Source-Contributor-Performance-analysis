@@ -24,18 +24,22 @@ Follow these steps to run the **Open-Source Contributor Performance Analysis Sys
    
 2. **Navigate to the Project Directory**
    
+   ```bash
    cd repo-name
 
 4. **Install the Dependencies**
     
+   ```bash
    pip install -r requirements.txt
 
 5. **To get contributions.csv file**
-    
-  python github_contributions.py
+
+    ```bash
+    python github_contributions.py
    
 6. **Run the Streamlit App**
 
+   ```bash
    streamlit run app.py
 
 ## Screenshot of the app's dashboard
