@@ -33,9 +33,8 @@ Follow these steps to run the **Open-Source Contributor Performance Analysis Sys
 
    streamlit run app.py
 
-*Screenshot of the app's dashboard.*
+## Screenshot of the app's dashboard
 
 ![image](https://github.com/user-attachments/assets/a73e8468-8b13-4813-b0ba-db75e6d07a7a)
 
 ![image](https://github.com/user-attachments/assets/68a777cc-d92a-414e-9c40-702f70349724)
-
