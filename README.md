@@ -32,7 +32,7 @@ Follow these steps to run the **Open-Source Contributor Performance Analysis Sys
    ```bash
    pip install -r requirements.txt
 
-5. **To get contributions.csv file**
+5. **To get contributors.csv file**
 
     ```bash
     python github_contributions.py
