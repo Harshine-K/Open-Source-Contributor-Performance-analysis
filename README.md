@@ -1,3 +1,4 @@
+
 # Open-Source Contributor Performance Analysis System
 
 This project aims to analyze the performance of open-source contributors based on key metrics such as contributions, commits, pull requests, and issues. The system includes a Streamlit app that allows users to upload a CSV file of contributor data and view various insights, including performance plots, contributor rankings, and a downloadable PDF report.
@@ -28,6 +29,10 @@ Follow these steps to run the **Open-Source Contributor Performance Analysis Sys
 4. **Install the Dependencies**
     
    pip install -r requirements.txt
+
+5. **To get contributions.csv file**
+    
+  python github_contributions.py
    
 6. **Run the Streamlit App**
 
