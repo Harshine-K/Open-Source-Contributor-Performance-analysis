@@ -16,17 +16,26 @@ This project aims to analyze the performance of open-source contributors based o
 
 Follow these steps to run the **Open-Source Contributor Performance Analysis System** on your local machine:
 
-### Step 1: Clone the Repository
+1. **Clone the Repository**:
 
-First, clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/username/repo-name.git
+   
+2. **Navigate to the Project Directory**
+   
+   cd repo-name
 
-```bash
-git clone https://github.com/yourusername/open-source-contributor-performance.git
-cd open-source-contributor-performance
+4. **Install the Dependencies**
+    
+   pip install -r requirements.txt
+   
+6. **Run the Streamlit App**
 
-### Install Dependencies
+   streamlit run app.py
 
-To install the required dependencies, run:
+*Screenshot of the app's dashboard.*
 
-```bash
-pip install -r requirements.txt
+![image](https://github.com/user-attachments/assets/a73e8468-8b13-4813-b0ba-db75e6d07a7a)
+
+![image](https://github.com/user-attachments/assets/68a777cc-d92a-414e-9c40-702f70349724)
+
